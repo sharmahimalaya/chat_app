@@ -1,0 +1,35 @@
+.wrap {
+    width: 100%;
+    height: 100%;
+}
+
+.sentwrap {
+    float: right;
+    min-width: 30%;
+    max-width: 45%;
+    height: 100%;
+}
+
+.sent {
+    background-color: aqua;
+    border-radius: 1em 1em 0.25em 1em;
+    height: 100%;
+}
+
+.receivedwrap {
+    float: left;
+    min-width: 30%;
+    max-width: 45%;
+    height: 100%;
+}
+
+.received {
+    background-color: blanchedalmond;
+    border-radius: 1em 1em 1em 0.25em;
+    height: 100%;
+}
+
+.msgcontent {
+    padding: 1rem;
+    margin: 0;
+}

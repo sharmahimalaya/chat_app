@@ -1,0 +1,23 @@
+.msgtypewrap {
+    display: flex;
+}
+.msgtypearea {
+    width: 100%;
+    resize: none;
+    padding: 1em;
+    padding-bottom: 0.2em;
+    border: none;
+    outline: none;
+    overflow:hidden;
+}
+.sendbtn {
+    background-image: url(./images/sendbtn.png);
+    background-size:30px 30px;
+    width: 30px;
+    height: 30px;
+    margin: 1em;
+    bottom: 1em;
+    border: none;
+    background-color: white;
+    cursor: pointer;
+}
